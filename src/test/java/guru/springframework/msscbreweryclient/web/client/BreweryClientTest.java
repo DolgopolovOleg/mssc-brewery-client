@@ -13,6 +13,8 @@ import static org.junit.jupiter.api.Assertions.*;
 @SpringBootTest
 class BreweryClientTest {
 
+    // For these test mssc-brewery app should be started
+
     @Autowired
     BreweryClient breweryClient;
 
